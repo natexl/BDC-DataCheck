@@ -1,0 +1,3 @@
+[submodule "BDC-Confirm"]
+	path = BDC-Confirm
+	url = https://github.com/japycer/BDC-Confirm.git
